@@ -1,0 +1,10 @@
+COMO REINICIAR O TUTOR SRE:
+
+# 1. Navegue até a pasta correta do projeto
+cd ~/Documents/study/agente-tutor-sre
+
+# 2. Ative o ambiente virtual (vai aparecer um (venv) no início da linha)
+source venv/bin/activate
+
+# 3. Execute o script do tutor
+python3 tutor.py
